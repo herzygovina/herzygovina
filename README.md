@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @herzygovina
-- 👀 I’m interested in ...Java programing and cybarsecurity
-- 🌱 I’m currently learning ...informatics
-- 💞️ I’m looking to collaborate on ...programing ideas and hacking tips
+- 👀 I’m interested in Python and cybar security
+- 🌱 graduated deploma in Cybersecurity and digital forensic
+- 💞️ I’m looking to collaborate in programing ideas and hacking tips
 - 📫 How to reach me ...herzgovina@gmail.com
 
 <!---
